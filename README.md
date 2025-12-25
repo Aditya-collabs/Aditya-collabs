@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Currently Pursuing my BTech Degree in Computer Science.<br>Had A Good Hands-On Practice with Skills like:- Html, Css and Javascript also on C/C++<br>Have Good Communication Skills, Eager to Learn and Contribute, Hardworking<br>Want to be Software Developer.<br>Except Tech, Im also good at Gamming, Football and Riding Bikes.
+Im Currently Pursuing my BTech Degree in Computer Science.<br>Had A Good Hands-On Practice with Skills like:- Html, Css and Javascript, Node.js, Express.js, MongoDB also on C/C++<br>Have Good Communication Skills, Eager to Learn and Contribute, Hardworking<br>Want to be Software Developer.<br>Except Tech, Im also good at Gamming, Football and Riding Bikes.
 
 
 ## 🌐 Socials:
